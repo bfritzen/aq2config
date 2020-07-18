@@ -5,7 +5,7 @@ Config do Action Quake 2
 Instruções para utilizar os mesmos triggers de kill no client [q2pro](https://skuller.net/q2pro/) (mesmo client [Q2Online](https://q2online.net/action))
 
 1. Remova seus triggers (se tiver)
-2. Copie toda a parte final do arquivo após o comentário 
+2. Copie toda a parte final do [meu config (chuck.cfg)](https://github.com/bfritzen/aq2config/blob/master/chuck.cfg) após o comentário 
 ```
 // triggers de kill e report
 ```
